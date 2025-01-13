@@ -1,0 +1,10 @@
+Main requirements for the project:
+1. Vehicle should run
+2
+3.
+
+
+Component requirements:
+1. Raspberry PI 5 needed for AI Hat addon
+2.
+3.
